@@ -21,6 +21,10 @@ Responsive design for desktop and mobile
 💼 Role
 
 Full Stack Developer
-Developed and maintained e-commerce applications using PHP, OpenCart, MySQL, and React.js, working across both frontend and backend to implement features, improve performance, and support business operations.
+Developed and maintained e-commerce applications using PHP, OpenCart, MySQL, React.js, and REST APIs.
 
-Designed and developed the frontend using Next.js and Tailwind CSS, focusing on responsive design, reusable components, and a smooth user experience.
+Developed backend functionality and REST APIs using PHP and OpenCart
+Integrated APIs with frontend applications
+Designed and optimized MySQL queries and database operations
+Developed frontend features using React.js
+Maintained and improved existing e-commerce functionality
